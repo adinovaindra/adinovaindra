@@ -46,10 +46,10 @@ Each repository contains different projects, experiments, or learning paths that
 ---
 
 ## 📊 GitHub Stats
-![Dino's GitHub stats](https://github-readme-stats.vercel.app/api?username=adinovaindrapermana&show_icons=true&theme=tokyonight)
+![Dino's GitHub stats](https://github-readme-stats.vercel.app/api?username=adinovaindra&show_icons=true&theme=tokyonight)
 
 ## 📈 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adinovaindrapermana&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adinovaindra&layout=compact&theme=tokyonight)
 
 ---
 
