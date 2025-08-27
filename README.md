@@ -30,7 +30,7 @@ Each repository contains different projects, experiments, or learning paths that
 ---
 
 ## 📂 Featured Projects
-- 📝 [To Do List App](https://github.com/adinovaindra/TRAINING-FULLSTACK-DEVELOPMENT/tree/todolist) — Simple task manager built with HTML, CSS, JavaScript.  
+- 📝 [To Do List App](https://github.com/adinovaindra/simple-todolist) — Simple task manager built with HTML, CSS, JavaScript.  
 - 🚀 [Fullstack Training Journey](https://github.com/adinovaindra/TRAINING-FULLSTACK-DEVELOPMENT) — Documenting my learning journey & experiments.
 - 📖 More coming soon...
 
