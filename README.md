@@ -1,61 +1,90 @@
-<!-- Greeting -->
-<h1 align="center">👋 Welcome to My GitHub!</h1>
-<h3 align="center">🚀 Aspiring Web Developer | 🖥️ Future Backend Engineer | 🧠 Logic-Driven Learner</h3>
+# 👋 Welcome to My GitHub!
 
-<!-- Typing SVG -->
+<h3 align="center">Quality Assurance | Software Tester | Technical QA Enthusiast</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Dino+(Adinova+Indra+Permana);Aspiring+Backend+Developer;Building+projects+with+Node.js+and+PostgreSQL;Exploring+Fullstack+Development;Always+learning%2C+always+curious!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Dino+(Adinova+Indra+Permana);Exploring+Software+Quality+Assurance;Manual+Testing+%26+Test+Automation;Building+with+Playwright+and+TypeScript;Always+learning%2C+always+improving!" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🌟 About Me
-I'm **Dino (Adinova Indra Permana)**, an **aspiring Web Developer** with a strong focus on:  
-- 🖥️ **Backend Development** (Node.js, Express, PostgreSQL, Prisma)  
-- ⚡ Building clean, scalable, and efficient applications  
-- 🧩 Solving problems that require **logic and critical thinking**
-- Outside of coding, I have a background in aviation ✈️, which taught me discipline and precision — skills I bring into my software projects.  
 
-💡 I’m also interested in exploring **Cyber Security & Ethical Hacking** in the future, as I love challenges that involve logical thinking and systems analysis.  
+I'm **Dino (Adinova Indra Permana)**, a career switcher building my career in **Software Quality Assurance**.
 
-This **`main` repository** serves as my **homepage** 🏠.  
-Think of it as the central hub to understand who I am and where I'm heading.  
+My current focus includes:
 
----
+- Software Testing — test case design, test execution, and exploratory testing.
+- Test Automation — building automated tests with Playwright and TypeScript.
+- Technical QA — API testing, debugging, and understanding application behavior.
+- Defect Reporting — documenting issues with clear steps, expected results, actual results, and supporting evidence.
 
-## 📂 Explore My Work
-If you're curious about what I've been working on, check out the **repository tab** above ⬆️.  
-Each repository contains different projects, experiments, or learning paths that I'm currently exploring.  
+I also have a technical background in web development, particularly backend technologies and databases.
+
+Outside of software, I have an aviation background ✈️, where discipline, precision, and procedural compliance were important parts of my training.
 
 ---
 
-## 📂 Featured Projects
-- 📝 [To Do List App](https://github.com/adinovaindra/simple-todolist) — Simple task manager built with HTML, CSS, JavaScript.  
-- 🚀 [Fullstack Training Journey](https://github.com/adinovaindra/TRAINING-FULLSTACK-DEVELOPMENT) — Documenting my learning journey & experiments.
-- 📖 More coming soon...
+## 🧪 Featured QA Projects
+
+### 1. Relay — QA Automation & Technical Debugging
+
+Playwright · TypeScript · Test Automation
+
+- Developed automated tests for a full-stack 1-on-1 team messaging application.
+- Covered key functional areas, including authentication, authorization, conversations, messaging, and user experience.
+- Investigated test failures, validated assertions, and documented defects with supporting evidence.
+
+🔗 [View Repository](https://github.com/adinovaindra/qa-relay-automation)
+
+### 2. Relay — Manual QA Portfolio
+
+Manual Testing · Test Case Design · Exploratory Testing
+
+- Performed manual testing on a full-stack 1-on-1 team messaging application.
+- Designed and executed test cases based on functional requirements and expected behavior.
+- Conducted exploratory testing and documented defects with supporting evidence.
+
+🔗 [View Repository](https://github.com/adinovaindra/qa-relay-manual)
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Additional Technical Projects
+
+- **[Inventory & Distribution Management API](https://github.com/adinovaindra/inventory-distribution-api)** — REST API project built with Node.js, TypeScript, Express, and PostgreSQL.
+- **[Fintech Core Ledger API](https://github.com/adinovaindra/fintech-core-ledger-api)** — Backend project focused on financial data integrity and transaction consistency.
+
+---
+
+## 🛠️ Tools & Technologies
+
+**QA & Automation**
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+**Programming & Backend**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Database & Development Tools**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-## 📊 GitHub Stats
-![Dino's GitHub stats](https://github-readme-stats.vercel.app/api?username=adinovaindra&show_icons=true&theme=tokyonight)
-
-## 📈 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adinovaindra&layout=compact&theme=tokyonight)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 🌍 Connect with Me
+
 <p align="center">
-  <a href="https://id.linkedin.com/in/adinova-indra-permana-88b071247" target="_blank">
+  <a href="https://www.linkedin.com/in/adinova-indra-permana/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:adinovaindrapermana@gmail.com">
@@ -65,4 +94,4 @@ Each repository contains different projects, experiments, or learning paths that
 
 ---
 
-✨ Stay tuned — more projects and experiments coming soon! 🚀
+✨ Thanks for stopping by! Feel free to explore my repositories.
